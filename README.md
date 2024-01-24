@@ -5,7 +5,7 @@
 </p>
 <p align="center"><a href="https://king777.de" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
 
-<p><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support.</strong></span></p>
+<p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support.</strong></span></p>
 
 <p><span style="color:#ff0000"><strong>Multiple fixes, merged single database&nbsp;</strong></span><br />
 Demo USER /Demo Play games is added and activated&nbsp;<br />
