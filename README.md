@@ -73,7 +73,7 @@ Added 100 games, bringing total to 1200 games now.</p>
 
 <h2>File Edits</h2>
 
-<p dir="auto">Edit <code></code> Socket File Changes in *json files.</p>
+<p dir="auto">Edit <code>/</code> Socket File Changes in *json files.</p>
 
 <h2>Games Downloads</h2>
 
