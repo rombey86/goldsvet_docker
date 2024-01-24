@@ -35,7 +35,7 @@ Added 100 games, bringing total to 1200 games now.</p>
     <li>Ensure SSL is enforced for the domain.</li>
     <li>Run on terminal under public_html folder : composer install </li>
     <li>Generate SSL CRT, KEY, and BUNDLE. Copy the contents of your CRT/KEY/BUNDLE to files in the
-        <code>PTWEBSOCKET/SSL/</code> folder. Create a new email and password.</li>
+        <code>/casino/PTwebsocket/ssl/</code> folder. Create a new email and password.</li>
     <li>For file uploads:
         <ul>
             <li>
