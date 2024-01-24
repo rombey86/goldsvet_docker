@@ -1,5 +1,5 @@
-<h1>Goldsvet 8.5 2K24</h1>
-<h2>Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
+<h1 align="center">Goldsvet 8.5 2K24</h1>
+<h2 align="center">Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet85/main/slot.png" alt="Alt Text" width="50%">
