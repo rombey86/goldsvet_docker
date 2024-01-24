@@ -36,8 +36,6 @@ Added 100 games, bringing total to 1200 games now.</p>
     <li>Run on terminal under public_html folder : composer install </li>
     <li>Generate SSL CRT, KEY, and BUNDLE. Copy the contents of your CRT/KEY/BUNDLE to files in the
         <code>PTWEBSOCKET/SSL/</code> folder. Create a new email and password.</li>
-    <li>Create a new database, grant all access, and import the SQL file located in the <code>/addons/db.sql</code>
-        folder using PHPMYADMIN.</li>
     <li>For file uploads:
         <ul>
             <li>
