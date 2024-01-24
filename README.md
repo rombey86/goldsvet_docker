@@ -51,6 +51,10 @@ Added 100 games, bringing total to 1200 games now.</p>
     </li>
 </ul>
 
+<h2>Minimal Installer</h2>
+<p>Upload/Clone all files from this repo and run the yourdomain.com/install.php</p>
+<p>It will help you handle installation.</p>
+
 <h2>SSL Specific Instructions</h2>
 
 <ul>
