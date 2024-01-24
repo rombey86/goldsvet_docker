@@ -31,7 +31,7 @@ Added 100 games, bringing total to 1200 games now.</p>
     <li>Enable PHP Extension : Fileinfo, Imagick, Redis</li>
     <li>Create a new email and set a password.</li>
     <li>Create a new database and grant full access.</li>
-    <li>Import the SQL file located in the <code>/addons/db.sql</code> directory.</li>
+    <li>Import the SQL file <code>db.sql</code> directory.</li>
     <li>Ensure SSL is enforced for the domain.</li>
     <li>Run on terminal under public_html folder : composer install </li>
     <li>Generate SSL CRT, KEY, and BUNDLE. Copy the contents of your CRT/KEY/BUNDLE to files in the
