@@ -51,11 +51,16 @@ Added 100 games, bringing total to 1200 games now.</p>
     </li>
 </ul>
 
+<h2>Games Addons Pack - Premium</h2>
+
+<p><b>Currently, there are approximately 1200 games totaling 45+ GB. Including latest Pragmatic Games...</p></b>
+<p><b>This pack and additional service require fees that you can message me on telegram or discord.</p></b>
+
 <h2>Minimal Installer</h2>
 <p>Upload/Clone all files from this repo and run the yourdomain.com/install.php</p>
 <p>It will help you handle installation.</p>
 
-<h2>SSL Specific Instructions</h2>
+<h2>SSL Instructions</h2>
 
 <ul>
     <li>Delete any self-signed certificates.</li>
@@ -74,11 +79,6 @@ Added 100 games, bringing total to 1200 games now.</p>
 <h2>File Edits</h2>
 
 <p dir="auto">Edit <code>/</code> Socket File Changes in *json files.</p>
-
-<h2>Games Downloads</h2>
-
-<p>Currently, there are approximately 1000 games totaling 40 GB.</p>
-<p>Files uploaded soon.. or join our group to get it fast.</p>
 
 <h2>PM2 Commands</h2>
 
@@ -133,4 +133,4 @@ If you find this project useful and would like to show your support, you can mak
   - Wallet Address: 0x5fc161aDa8211982206C7A8ac83140001E9329c9
 
 - **USDT (Tron network):**
-  - Wallet Address: TEyxHVmRwjThiNcMJivLjspEeFwW8dunZo
+  - Wallet Address: TSbmnfXsD97QDx72NcsK55zaYK15fAYqqy
