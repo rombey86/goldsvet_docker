@@ -51,10 +51,10 @@ Added 100 games, bringing total to 1200 games now.</p>
     </li>
 </ul>
 
-<h2>Games Addons Pack - Premium</h2>
+<h2>Games Add-on Packages - Premium</h2>
 
 <p><b>Currently, there are approximately 1200 games totaling 45+ GB. Including latest Pragmatic Games...</p></b>
-<p><b>This pack and additional service require fees that you can message me on telegram or discord.</p></b>
+<p><b>This package and additional services require a fee which you can message me on telegram or discord.</p></b>
 
 <h2>Minimal Installer</h2>
 <p>Upload/Clone all files from this repo and run the yourdomain.com/install.php</p>
