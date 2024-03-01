@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet85/main/slot.png" alt="Alt Text" width="50%">
 </p>
-<p align="center"><a href="https://king777.de" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
+<p align="center"><a href="https://king777.de/categories/all" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
 
 <p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
 <p>&nbsp;</p>
